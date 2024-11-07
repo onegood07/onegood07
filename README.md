@@ -1,7 +1,10 @@
 
-### 🌱 I’m currently learning
+### 📝 Currently learning
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### 🌱 Most Used Languages 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onegood07&layout=compact)](https://github.com/onegood07/github-readme-stats)
 
 <!--
 **onegood07/onegood07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
