@@ -6,6 +6,10 @@
 ### 🌱 Most Used Languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onegood07&layout=compact)](https://github.com/onegood07/github-readme-stats)
 
+### 🤔 BackJoon
+[![Solved.ac
+one_good07](http://mazassumnida.wtf/api/generate_badge?boj=one_good07)](https://solved.ac/one_good07)
+
 <!--
 **onegood07/onegood07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
