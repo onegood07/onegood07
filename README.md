@@ -1,16 +1,13 @@
-## Hi there 👋
+### 🛠️ Tech Stack
+<div>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
+</div>
 
-<!--
-**onegood07/onegood07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Education
+- `2022.03 - ing` &nbsp;&nbsp;**Sejong University** — *Software Engineering*
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Experience
+- `2024.03 - 2024.12` &nbsp;&nbsp;**Apple Developer Academy @ POSTECH** — *3rd*
